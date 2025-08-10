@@ -35,7 +35,7 @@ INSERT INTO Diretores (nome_diretor) VALUES
 INSERT INTO Filmes (titulo, id_diretor) VALUES 
 ('Pulp Fiction', 1), 
 ('Inception', 2), 
-('Barbie', 3);
+('Look Back', 3);
 
 INSERT INTO Clientes (nome_cliente) VALUES 
 ('João Lima'), 
